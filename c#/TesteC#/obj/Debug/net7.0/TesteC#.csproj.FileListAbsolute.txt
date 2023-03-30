@@ -1,0 +1,15 @@
+C:\TesteC#\bin\Debug\net7.0\TesteC#.exe
+C:\TesteC#\bin\Debug\net7.0\TesteC#.deps.json
+C:\TesteC#\bin\Debug\net7.0\TesteC#.runtimeconfig.json
+C:\TesteC#\bin\Debug\net7.0\TesteC#.dll
+C:\TesteC#\bin\Debug\net7.0\TesteC#.pdb
+C:\TesteC#\obj\Debug\net7.0\TesteC#.csproj.AssemblyReference.cache
+C:\TesteC#\obj\Debug\net7.0\TesteC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\TesteC#\obj\Debug\net7.0\TesteC#.AssemblyInfoInputs.cache
+C:\TesteC#\obj\Debug\net7.0\TesteC#.AssemblyInfo.cs
+C:\TesteC#\obj\Debug\net7.0\TesteC#.csproj.CoreCompileInputs.cache
+C:\TesteC#\obj\Debug\net7.0\TesteC#.dll
+C:\TesteC#\obj\Debug\net7.0\refint\TesteC#.dll
+C:\TesteC#\obj\Debug\net7.0\TesteC#.pdb
+C:\TesteC#\obj\Debug\net7.0\TesteC#.genruntimeconfig.cache
+C:\TesteC#\obj\Debug\net7.0\ref\TesteC#.dll

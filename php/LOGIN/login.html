@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <style>
+           body{
+            background-color: #008B8B;
+           }
+           div{
+            background-color: rgba(17, 205, 230, 0.8);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            padding: 80px;
+            border-radius: 10px;
+            
+           }
+           input{
+            padding: 15px;
+            border: none;
+            border-radius: 2px;
+            outline: none;
+            font-size: 15px;
+           }
+           button{
+            background-color: #483D8B;
+            border: none;
+            padding: 15px;
+            width: 100%;
+            border-radius: 5px;
+            color: white;
+            font-size: 15px;
+           }
+           button:hover{
+            background-color: #A020F0;
+           }
+            
+        </style>
+
+    </head>
+    <body>
+        <div>
+<form method="post" action="ope.php" id="formlogin" name="formlogin" >
+
+<h1>LOGIN</h1>
+<input type="text" placeholder="Nome de usuario" name="nome" id="nome">
+<br><br>
+<input type="password" placeholder="Senha" name="senha" id="senha">
+<br><br>
+<button type="submit" value="LOGAR  ">Logar</button>
+</div>
+</form>
+</body>
+</html>

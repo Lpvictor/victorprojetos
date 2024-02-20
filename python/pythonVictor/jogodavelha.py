@@ -1,5 +1,4 @@
 # Jogo da Velha
-# Programa em Python por ChatSonic
 
 # Função para desenhar o tabuleiro
 def draw_board(board):
